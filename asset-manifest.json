@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/cat-jjal-maker/static/css/main.f4e18ebe.css",
+    "main.js": "/cat-jjal-maker/static/js/main.a0817752.js",
+    "static/js/787.09e0d114.chunk.js": "/cat-jjal-maker/static/js/787.09e0d114.chunk.js",
+    "index.html": "/cat-jjal-maker/index.html",
+    "main.f4e18ebe.css.map": "/cat-jjal-maker/static/css/main.f4e18ebe.css.map",
+    "main.a0817752.js.map": "/cat-jjal-maker/static/js/main.a0817752.js.map",
+    "787.09e0d114.chunk.js.map": "/cat-jjal-maker/static/js/787.09e0d114.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f4e18ebe.css",
+    "static/js/main.a0817752.js"
+  ]
+}
